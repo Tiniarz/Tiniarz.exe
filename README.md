@@ -2,7 +2,7 @@
 
 [![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://simple.wikipedia.org/wiki/C%2B%2B)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
-[![Made with Love](https://img.shields.io/badge/Made_with-Love-red.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Heart)
+[![Made with Love](https://img.shields.io/badge/Made_with-Love-red.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Heart_symbol)
 
 Tiniarz.exe is a GDI malware made with C++
 - 30 Payloads
